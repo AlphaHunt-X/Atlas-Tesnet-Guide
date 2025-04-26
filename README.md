@@ -68,7 +68,7 @@ Faucet Link -  https://faucet.atlas.xyz/
 
 ### 5. Prepare the Program
 
-Clone a sample program (It's Sample program you can also create using hekp of their docs or you can also use this ):
+Clone a sample program:
 
 ```bash
 solana program dump -um TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA program.so
