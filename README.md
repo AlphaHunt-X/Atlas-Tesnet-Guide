@@ -95,10 +95,12 @@ This will generate a `program-keypair.json` file.
 Deploy your program using:
 
 ```bash
-solana program deploy -u "https://testnet.atlas.xyz" program.so --program-id program-keypair.json --use-rpc
+solana program deploy -u "https://testnet.atlas.xyz" program.so --program-id program-keypair.json
 ```
+After Deployment and All trnx done.
+see your trnx on explorer by pasting ur solana address 
 
-✅ Use the `--use-rpc` flag to ensure reliable deployment.
+Link - https://explorer.atlas.xyz/
 
 ---
 
