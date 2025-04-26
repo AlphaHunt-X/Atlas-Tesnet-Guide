@@ -62,13 +62,13 @@ solana address -k ~/my_wallet.json
 
 Use the Atlas Testnet Faucet to airdrop Sepolia ETH to your wallet address.  
 
-Faucet Link -https://faucet.atlas.xyz/
+Faucet Link -  https://faucet.atlas.xyz/
 
 ---
 
 ### 5. Prepare the Program
 
-Clone a sample program (optional):
+Clone a sample program (It's Sample program you can also create using hekp of their docs or you can also use this ):
 
 ```bash
 solana program dump -um TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA program.so
